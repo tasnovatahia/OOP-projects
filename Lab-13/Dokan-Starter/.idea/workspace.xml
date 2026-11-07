@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f7632a0-f69f-4556-b6b3-00ffe2c4bf3e" name="Changes" comment="init shelves">
+      <change beforePath="$PROJECT_DIR$/../../Lab-08/GridLedger/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-08/GridLedger/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab-10/Sketchpad/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab-10/Sketchpad/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokan/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dokan/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dokan/Shelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dokan/Shelf.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Dokan-Starter" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HkdYcI5gOS3BDdGEBLiLHpvb0D" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Dokan-Starter [cases].executor": "Run",
+    "Gradle.DokanTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "38__Tasnova__labtask",
+    "git.auto.fetch.suggestion.counter": "1",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/SWE-4202-24/Lab-13/Dokan-Starter",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Dokan-Starter [cases]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cases" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Dokan-Starter [cases]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f7632a0-f69f-4556-b6b3-00ffe2c4bf3e" name="Changes" comment="" />
+      <created>1786416048413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786416048413</updated>
+    </task>
+    <task id="LOCAL-00001" summary="refusing null">
+      <option name="closed" value="true" />
+      <created>1786417822089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786417822089</updated>
+    </task>
+    <task id="LOCAL-00002" summary="throwing exception if null">
+      <option name="closed" value="true" />
+      <created>1786418107355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786418107355</updated>
+    </task>
+    <task id="LOCAL-00003" summary="swapping between pair">
+      <option name="closed" value="true" />
+      <created>1786418255343</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1786418255343</updated>
+    </task>
+    <task id="LOCAL-00004" summary="replacing each tODo  witth count,distinct,mostComon method bodies">
+      <option name="closed" value="true" />
+      <created>1786419131054</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1786419131054</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init shelf">
+      <option name="closed" value="true" />
+      <created>1786419839311</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1786419839311</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init shelves">
+      <option name="closed" value="true" />
+      <created>1786421504617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1786421504617</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refusing null" />
+    <MESSAGE value="throwing exception if null" />
+    <MESSAGE value="swapping between pair" />
+    <MESSAGE value="replacing each tODo  witth count,distinct,mostComon method bodies" />
+    <MESSAGE value="import ArrayList" />
+    <MESSAGE value="init shelf" />
+    <MESSAGE value="init shelves" />
+    <option name="LAST_COMMIT_MESSAGE" value="init shelves" />
+  </component>
+</project>
